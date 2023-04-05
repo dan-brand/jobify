@@ -23,3 +23,5 @@ function App() {
 export default App;
 
 // {<ProtectedRoute><SharedLayout /></ProtectedRoute> - we wrap the shared loyout in a ProtectedRoute componet to redirect to landing page is there is no user i.e. when we logout, user is set back to null and takes us back to landing (see ProtectedRoute.js)
+
+// Test comment for Github/render test
